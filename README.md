@@ -1,4 +1,8 @@
 # screen_capture_backdoor
+
+> **⚠️ This repository is archived.**  
+> It is no longer maintained and is kept only for historical/reference purposes.
+> 
 Start by cloning this repository in any directory of your choice 
 ```
 git clone https://github.com/cipherKT/screen_capture_backdoor.git
